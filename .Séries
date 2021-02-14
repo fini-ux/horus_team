@@ -13,6 +13,20 @@
 </channel>
 
 <channel>
+<name>[COLOR green]•[/COLOR][COLOR white][B]13 Reasons Why[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8eUJQK8wRiBvGqiqMKEcYmAnESQ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/fini-ux/horus_team/main/todas%20as%20series/13%20Reasons</externallink>
+<fanart>https://fanart.tv/fanart/tv/323168/tvthumb/13-reasons-why-58ec2e0193ce3.jpg</fanart>
+<info>
+[COLOR green][B]Emissora:[/B][/COLOR] [COLOR white][B]Netflix[/B][/COLOR] 
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2017[/B][/COLOR] 
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama,Mistério[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Clay Jensen é um estudante que se vê envolvido em uma série de mistérios provocados pelo trágico suicídio de uma amiga.[/B][/COLOR]
+[COLOR green][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Finalizada[/B][/COLOR]
+</info>
+</channel>
+
+<channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]8 Dias[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bhkGEdIgot5RtJSNOEFjyYBzCOk.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/fini-ux/horus_team/main/todas%20as%20series/8%20Dias.xml</externallink>
@@ -37,6 +51,34 @@
 [COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama[/B][/COLOR] 
 [COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Em Istambul, um grupo de pessoas precisa transcender fronteiras socioculturais para fazer novas amizades, mesmo quando suas crenças, desejos e medos se misturam.[/B][/COLOR]
 [COLOR green][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Finalizada[/B][/COLOR]
+</info>
+</channel>
+
+<channel>
+<name>[COLOR green]•[/COLOR][COLOR white][B]24 Horas[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7zKAPnbO7Zt390RdRg5vmA7owto.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/fini-ux/horus_team/main/todas%20as%20series/24%20Horas</externallink>
+<fanart>https://www.cinemaepipoca.com.br/wp-content/uploads/2016/07/24-horas.jpg</fanart>
+<info>
+[COLOR green][B]Emissora:[/B][/COLOR] [COLOR white][B]Fox[/B][/COLOR] 
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2001[/B][/COLOR] 
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]O Agente federal Jack Bauer não se pode dar ao luxo de jogar pelas regras. Como membro da UCT (Unidade Contra Terrorismo), Jack deve parar bombas, vírus, tentativas de assassinato, e geralmente salvar alguém que lhe é próximo. Cada temporada da série tem 24 episódios, cada um, em desdobramento em tempo real, de uma hora consecutiva num dia muito ruim.[/B][/COLOR]
+[COLOR green][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Finalizada[/B][/COLOR]
+</info>
+</channel>
+
+<channel>
+<name>[COLOR green]•[/COLOR][COLOR white][B]50M2[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nXX0wwN7NfA17AOnKvhIX4UKD1x.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/fini-ux/horus_team/main/todas%20as%20series/50M2</externallink>
+<fanart>https://entreterse.s3.amazonaws.com/wp-content/uploads/2021/01/50M2.jpeg</fanart>
+<info>
+[COLOR green][B]Emissora:[/B][/COLOR] [COLOR white][B]Netflix[/B][/COLOR] 
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR] 
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Crime,Mistério[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Em busca da verdade sobre seu passado, um homem comete uma traição e assume uma nova identidade em um bairro de Istambul.[/B][/COLOR]
+[COLOR green][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Renovada[/B][/COLOR]
 </info>
 </channel>
 
@@ -278,31 +320,10 @@
 </info>
 </channel>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Além Da Ilha[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/FsmtZBsn/ilha.png</thumbnail>
-<externallink>https://cld.pt/dl/download/bcb8ac9f-25e7-47e5-a06a-9cec1b5cf36f/Al%C3%A9m%20da%20Ilha.xml</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t7zS9CURyVtOZE118llug3RtTWi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/fini-ux/horus_team/main/todas%20as%20series/Al%C3%A9m%20da%20Ilha.xml</externallink>
 <fanart>https://i.ytimg.com/vi/xNg2QdOVI9E/maxresdefault.jpg</fanart>
 <info>
 [COLOR green][B]Emissora:[/B][/COLOR] [COLOR white][B]GloboPlay[/B][/COLOR] 
@@ -315,8 +336,8 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Alex Rider[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/MX2nRGnx/A8.png</thumbnail>
-<externallink>https://cld.pt/dl/download/11543690-13dc-45ce-b80a-3c5459b71b79/Alex%20Rider.xml</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/fini-ux/horus_team/main/todas%20as%20series/Alex%20Rider.xml</externallink>
 <fanart>https://fanart.tv/fanart/tv/370312/tvthumb/alex-rider-5ed8e46734b3a.jpg</fanart>
 <info>
 [COLOR green][B]Emissora:[/B][/COLOR] [COLOR white][B]PrimeVideo[/B][/COLOR] 
@@ -329,8 +350,8 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Alguém Tem que Morrer[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/KzvYnMjp/alguem.png</thumbnail>
-<externallink>https://cld.pt/dl/download/cbb205a3-24ad-4f76-86e5-3972bb11db00/Algu%C3%A9m%20Tem%20que%20Morrer.xml</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/phM7yIMYHj9ZaUCnLaytCd7XpTd.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/fini-ux/horus_team/main/todas%20as%20series/Algu%C3%A9m%20Tem%20que%20Morrer.xml</externallink>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xk2Re8x8zqRDDKjJfcQC3Iu5UR4.jpg</fanart>
 <info>
 [COLOR green][B]Emissora:[/B][/COLOR] [COLOR white][B]Netflix[/B][/COLOR] 
@@ -343,8 +364,8 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Alice in Borderlands[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/pr3RW9nK/alice.png</thumbnail>
-<externallink>https://cld.pt/dl/download/db123dfb-3366-43b4-842f-fe5f953f10b6/Alice%20in%20Borderlands.xml</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i0i7kGDrArtM1sCd8niZDC7iboV.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/fini-ux/horus_team/main/todas%20as%20series/Alice%20in%20Borderlands.xml</externallink>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/bKxiLRPVWe2nZXCzt6JPr5HNWYm.jpg</fanart>
 <info>
 [COLOR green][B]Emissora:[/B][/COLOR] [COLOR white][B]Netflix[/B][/COLOR] 
@@ -357,7 +378,7 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]All American[/B][/COLOR]</name>
-<thumbnail>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/8281f7d7-6f3d-4166-bf1b-56f58acab808/dcqpcrl-82dae85f-afaf-474b-bfbd-68260ad0f5e0.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/44eb3a21-1d1c-40d9-ba7d-7dcf534f32d0/All%20American.xml</externallink>
 <fanart>https://fanart.tv/fanart/tv/348200/showbackground/all-american-2018-5d9c33c6ab39d.jpg</fanart>
 <info>
@@ -371,7 +392,7 @@
 
 <channel>
 <name>[COLOR green][B]* [/B][/COLOR][COLOR  white][B]Altered Carbon[/B][/COLOR]</name>
-<thumbnail>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/b179b54a-c6c2-4d81-8417-1bb908ea5ec1/dc8rdyi-3369fb1e-b584-4e65-8ee8-f6a72bf1343b.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pZg2NUDPJA54AmDs1Y1ZLizBrpd.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/48c12f4b-0316-4268-bf0d-93369c424e50/Altered%20Carbon.xml</externallink>
 <fanart>https://fanart.tv/fanart/tv/332331/tvthumb/altered-carbon-5a7446a30d1e7.jpg</fanart>
 <info>
@@ -385,7 +406,7 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Amazing Stories[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/br1ypJ0b/stories.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fWqy4ApCHnRrMPkhUPII3yjJZN3.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/8df82874-6629-4b75-95e2-c7f113ef45f3/Amazing%20Stories.xml</externallink>
 <fanart>https://macmagazine.uol.com.br/wp-content/uploads/2020/03/06-amazing-stories-scaled.jpg</fanart>
 <info>
@@ -399,7 +420,7 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]American Gods[/B][/COLOR]</name>
-<thumbnail>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/911ae783-7650-418e-ac38-3e76d089e3ad/db7ppiu-8459bbcf-73f6-4289-a4b6-64ff91e2c02b.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m6qf6lq3yARgbZwspvDLbUFtASh.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/ecfdd700-7f35-48d1-86ad-895ff8244122/American%20Gods.xml</externallink>
 <fanart>https://fanart.tv/fanart/tv/253573/tvthumb/american-gods-5932aee799e5a.jpg</fanart>
 <info>
@@ -413,7 +434,7 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Amor e Anarquia[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/FF2QVj3t/amor.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9l6246bl2s4NjxCsTG4EqHCAFnN.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/1cab8942-dae8-4057-928a-36216ae2e01a/Amor%20e%20Anarquia.xml</externallink>
 <fanart>https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRaFaYmapxDdgfZGsMDhntkyP1pDAzRClMXl1QF-oWx9i6Md712wxcuwrMfIlnvo2Ak_gEprqd6zbK2AAlpmk1KeZWMC.jpg?r=b12</fanart>
 <info>
@@ -427,7 +448,7 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Amor e Sorte[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/Z5kL6pmQ/sorte.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k2unBo5OcrHVaUBYndaWdPcQ461.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/3da33a8a-1469-4320-9a22-ee7db0340763/Amor%20e%20Sorte.xml</externallink>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/5YIyed0TJinsg3M8AljPVZhVfnN.jpg</fanart>
 <info>
@@ -441,7 +462,7 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Ana[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/0QHT2qkz/ana.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qWd7o05ioAjEzJgWH3C0xn0F9l3.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/e542da0c-2563-46ef-8eb9-450a5b38f031/Ana.xml</externallink>
 <fanart>https://francamentequerida.com.br/wp-content/uploads/2020/06/ana-prime-video-critica-compressed-1024x683.jpg</fanart>
 <info>
@@ -455,7 +476,7 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Anitta: Made in Honório[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/7ZQwVjNJ/anitta.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cT9JANVgLvxRKAjubFbC0jpN5Ib.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/71d99bbe-0ff7-460d-8d06-e7fc52c3dbfb/Anitta%20Made%20in%20Hon%C3%B3rio.xml</externallink>
 <fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/pFaPuOngn1GhSKXSqUZVUtdRY4M.jpg</fanart>
 <info>
@@ -469,7 +490,7 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Anne with an E[/B][/COLOR]</name>
-<thumbnail>https://orig13.deviantart.net/e364/f/2017/087/4/3/anne_folder_icon_by_iamanneme-db3tb7m.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xWdSSB1La6FcXZUuuwvcqvB6Kdf.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/037cb037-e98b-4814-af7d-36ffa869dce4/Anne%20with%20an%20E.xml</externallink>
 <fanart>https://fanart.tv/fanart/tv/322971/tvthumb/anne-58db38f345a1c.jpg</fanart>
 <info>
@@ -483,7 +504,7 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Arcanjo Renegado[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/cLC0qCxb/Arcanjo.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yboed6TwhCxHZm3SM3hpQtYIAxI.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/c54601b3-e8e1-49b6-b2ae-15ac01b1ebd0/Arcanjo%20Renegado.xml</externallink>
 <fanart>https://i.ytimg.com/vi/iEzf3p6F0wY/maxresdefault.jpg</fanart>
 <info>
@@ -497,7 +518,7 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Arquivo X[/B][/COLOR]</name>
-<thumbnail>https://orig00.deviantart.net/6cf7/f/2016/128/7/5/the_x_files___tv_series_folder_icon_v6_by_dyiddo-da1r5vg.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iv0WmXR9u9uvUgtfP4ykE0m99I6.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/263f1092-e895-4f23-bdb5-bf815b4e55a7/Arquivo%20X.xml</externallink>
 <fanart>https://fanart.tv/fanart/tv/77398/tvthumb/the-x-files-5817dcdd00cb5.jpg</fanart>
 <info>
@@ -511,7 +532,7 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Arremesso Final[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/13r22Vg7/final.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3a50zkySihNjgRfhLl2qIdhie7p.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/dd3f3fd8-a9aa-482d-b4e4-1742b6f4217a/Arremesso%20Final.xml</externallink>
 <fanart>https://4.bp.blogspot.com/-euOoR14Rcak/XsjOtfbcQcI/AAAAAAAAKHw/UgEo4VTr3UgubhKa2scyIfuxHYg5SsZDwCK4BGAYYCw/s1600/the%2Blast%2Bdance.png</fanart>
 <info>
@@ -525,7 +546,7 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Arrow[/B][/COLOR]</name>
-<thumbnail>http://orig08.deviantart.net/f412/f/2016/021/6/8/arrow_folder_icon_by_nialixus-d9or1mw.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oaLXsduGoDOOftWziIOvyZzrR4T.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/43855bb0-1d04-4808-b398-60c012873bd0/Arrow.xml</externallink>
 <fanart>https://fanart.tv/fanart/tv/257655/tvthumb/arrow-5073f2dd2b73a.jpg</fanart>
 <info>
@@ -539,7 +560,7 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]As Five[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/MpzcK2fR/five.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dR2RO4MMXPBQ8CaaQB39oGDTsD1.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/0a2a68a6-54d5-4947-8b14-527f17b8e878/As%20Five.xml</externallink>
 <fanart>https://seriesemcena.com.br/wp-content/uploads/2020/07/as-five.png</fanart>
 <info>
@@ -553,7 +574,7 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]As Crônicas de Evermoor[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/qMsffDcY/ever.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ytPVVenWnZ8L91ctE59P0QCCgYk.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/bba67af7-33be-44ae-9fe7-d1d0c3331593/Evermoor.xml</externallink>
 <fanart>https://fanart.tv/fanart/tv/286573/showbackground/evermoor-54c618efc1f0a.jpg</fanart>
 <info>
@@ -568,7 +589,7 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Ash vs Evil Dead[/B][/COLOR]</name>
-<thumbnail>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f21f2819-c11c-4615-8479-4b62d7cd4181/d9gmju3-b717434f-90a7-46b4-8a7a-6268d0b0222d.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kLLwXlA1KD5NKTRgyJBUGAr0UPf.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/673168f9-6642-4e05-8489-04d3d03772cf/Ash%20Vs%20Evil%20Dead.xml</externallink>
 <fanart>https://fanart.tv/fanart/tv/296295/tvthumb/ash-vs-evil-dead-563ded886e0d4.jpg</fanart>
 <info>
@@ -582,7 +603,7 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Assédio[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/J02mkRrW/assedio.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dNZr05g6usmIU3b0fuvbHj38TqS.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/8ab16f0a-beb4-4a09-9b00-48de3aec8195/Assedio.xml</externallink>
 <fanart>https://i.ytimg.com/vi/307chNwXjlg/maxresdefault.jpg</fanart>
 <info>
@@ -596,7 +617,7 @@
 
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Away[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/LsFd8CZn/away.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uZKqLBIZcjaB5NEpFr4umT8ezoW.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/507272c7-b230-4994-8957-a84112105cea/Away.xml</externallink>
 <fanart>https://fanart.tv/fanart/tv/380031/tvthumb/away-5f31836c31a75.jpg</fanart>
 <info>
@@ -604,74 +625,6 @@
 [COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2020[/B][/COLOR] 
 [COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama,Fantasia[/B][/COLOR] 
 [COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]A astronauta Emma Green comanda a primeira expedição humana rumo a Marte. Para embarcar na perigosa jornada, ela precisa deixar para trás o marido e a filha adolescente.[/B][/COLOR]
-[COLOR green][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Renovada[/B][/COLOR]
-</info>
-</channel>
-
-<channel>
-<name>[COLOR green]•[/COLOR][COLOR white][B]3%[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wCQP1El20FFncM0lIYcaW3Kq19o.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/fini-ux/horus_team/main/todas%20as%20series/3%25</externallink>
-<fanart>https://fanart.tv/fanart/tv/250749/tvthumb/3-percent-5b6d079b575af.jpg</fanart>
-<info>
-[COLOR green][B]Emissora:[/B][/COLOR] [COLOR white][B]Netflix[/B][/COLOR] 
-[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2016[/B][/COLOR] 
-[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama,Ficção Cientifica e fantasia[/B][/COLOR] 
-[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Em um futuro onde a elite vive no conforto do Maralto, todos os jovens de 20 anos passam por um processo seletivo para viver lá. Mas só 3% serão aprovados.[/B][/COLOR]
-[COLOR green][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Renovada[/B][/COLOR]
-</info>
-</channel>
-
-<channels>
-<channel>
-<name>[COLOR green]•[/COLOR][COLOR white][B]8 Dias[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bhkGEdIgot5RtJSNOEFjyYBzCOk.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/fini-ux/horus_team/main/todas%20as%20series/8%20Dias</externallink>
-<fanart>https://i.imgur.com/b4wZVi6.jpg</fanart>
-<info>
-[COLOR white][B]Lançamento: 2019[/B][/COLOR]
-[COLOR white][B]Sinopse: A produção acompanha oito dias restantes, para que um meteoro de 60 km de largura atinja a Terra. A zona de ataque antecipado está bem no meio da Europa e a taxa de sobrevivência estimada é zero. Os Estados Unidos tentam derrubar o meteoro com armas nucleares, mas fracassam. Toda a Europa está em fuga. Neste cenário, diversos personagens fazem o que for preciso para sobreviver quando o mundo está fora de controle.[/B][/COLOR]
-<info>
-</channel>
-
-<channel>
-<name>[COLOR green]•[/COLOR][COLOR white][B]13 Reasons Why[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8eUJQK8wRiBvGqiqMKEcYmAnESQ.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/fini-ux/horus_team/main/todas%20as%20series/13%20Reasons</externallink>
-<fanart>https://fanart.tv/fanart/tv/323168/tvthumb/13-reasons-why-58ec2e0193ce3.jpg</fanart>
-<info>
-[COLOR green][B]Emissora:[/B][/COLOR] [COLOR white][B]Netflix[/B][/COLOR] 
-[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2017[/B][/COLOR] 
-[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama,Mistério[/B][/COLOR] 
-[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Clay Jensen é um estudante que se vê envolvido em uma série de mistérios provocados pelo trágico suicídio de uma amiga.[/B][/COLOR]
-[COLOR green][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Finalizada[/B][/COLOR]
-</info>
-</channel>
-
-<channel>
-<name>[COLOR green]•[/COLOR][COLOR white][B]24 Horas[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7zKAPnbO7Zt390RdRg5vmA7owto.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/fini-ux/horus_team/main/todas%20as%20series/24%20Horas</externallink>
-<fanart>https://www.cinemaepipoca.com.br/wp-content/uploads/2016/07/24-horas.jpg</fanart>
-<info>
-[COLOR green][B]Emissora:[/B][/COLOR] [COLOR white][B]Fox[/B][/COLOR] 
-[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2001[/B][/COLOR] 
-[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama[/B][/COLOR] 
-[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]O Agente federal Jack Bauer não se pode dar ao luxo de jogar pelas regras. Como membro da UCT (Unidade Contra Terrorismo), Jack deve parar bombas, vírus, tentativas de assassinato, e geralmente salvar alguém que lhe é próximo. Cada temporada da série tem 24 episódios, cada um, em desdobramento em tempo real, de uma hora consecutiva num dia muito ruim.[/B][/COLOR]
-[COLOR green][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Finalizada[/B][/COLOR]
-</info>
-</channel>
-
-<channel>
-<name>[COLOR green]•[/COLOR][COLOR white][B]50M2[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nXX0wwN7NfA17AOnKvhIX4UKD1x.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/fini-ux/horus_team/main/todas%20as%20series/50M2</externallink>
-<fanart>https://entreterse.s3.amazonaws.com/wp-content/uploads/2021/01/50M2.jpeg</fanart>
-<info>
-[COLOR green][B]Emissora:[/B][/COLOR] [COLOR white][B]Netflix[/B][/COLOR] 
-[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR] 
-[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Crime,Mistério[/B][/COLOR] 
-[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Em busca da verdade sobre seu passado, um homem comete uma traição e assume uma nova identidade em um bairro de Istambul.[/B][/COLOR]
 [COLOR green][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Renovada[/B][/COLOR]
 </info>
 </channel>
