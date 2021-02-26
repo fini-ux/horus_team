@@ -1,5 +1,16 @@
 
 <item>
+<title>[B][COLOR white][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[B][COLOR white][/COLOR][/B]
+[COLOR green][B]Gênero:[/B][/COLOR]
+[COLOR green][B]Data de Lançamento:[/B][/COLOR]
+</info>
+</item>
+
+<item>
 <title>[B][COLOR white]Monster Hunter - HDCAM - 2021[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acafe25caeb3dcf08fee90cdfceea808c0c71e44&dn=COMOEUBAIXO.COM..Monster.Hunter.2020.1080p.WEBRip.Official.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2QhhILPAv7MKFd1q57ssQeEV2su.jpg</thumbnail>
