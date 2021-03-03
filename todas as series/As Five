@@ -2,10 +2,10 @@
 <layoutype>thumbnail</layoutype>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR white][B]1ª  Temporada[/B][/COLOR]</name>********************************************************************************
-
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
+<link>ignore</link>
+</item>
 
 <item>
 <title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
@@ -48,18 +48,3 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dR2RO4MMXPBQ8CaaQB39oGDTsD1.jpg</thumbnail>
 <fanart>https://seriesemcena.com.br/wp-content/uploads/2020/07/as-five.png</fanart>
 </item>
-
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
-<link></link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dR2RO4MMXPBQ8CaaQB39oGDTsD1.jpg</thumbnail>
-<fanart>https://seriesemcena.com.br/wp-content/uploads/2020/07/as-five.png</fanart>
-</item>
-  
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
-<link></link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dR2RO4MMXPBQ8CaaQB39oGDTsD1.jpg</thumbnail>
-<fanart>https://seriesemcena.com.br/wp-content/uploads/2020/07/as-five.png</fanart>
-</item>
-	
