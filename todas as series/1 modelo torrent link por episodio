@@ -1,11 +1,9 @@
 <layoutype>thumbnail</layoutype>
 
-<channels>
-</channels><channel>
+<item>
 <name>[COLOR white][B]1ª  Temporada[/B][/COLOR]</name>********************************************************************************
 
 
-<item>
 <title>[COLOR white][B]EPISÓDIO -> 01 -[/B][/COLOR]  [COLOR lime][B][/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://fanart.tv/fanart/tv/306719/seasonposter/queen-of-the-south-5d041becb9e00.jpg</thumbnail>
