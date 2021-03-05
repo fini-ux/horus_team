@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <layoutype>thumbnail</layoutype>
 
-<channels>
-</channels><channel>
-<name>[COLOR white][B]1ª  Temporada[/B][/COLOR]</name>********************************************************************************
-
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
+<link>.</link>
+</item>
 
 <item>
 <title>[COLOR white][B]EPISÓDIO -> 01 e 02[/B][/COLOR]</title>
