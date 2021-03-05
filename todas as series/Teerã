@@ -2,10 +2,10 @@
 <layoutype>thumbnail</layoutype>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR white][B]1ª  Temporada[/B][/COLOR]</name>********************************************************************************
-
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
+<link>.</link>
+</item>
 
 <item>
 <title>[COLOR white][B]EPISÓDIO -> 01 ao 03[/B][/COLOR]</title>
@@ -38,97 +38,6 @@
 <item>
 <title>[COLOR white][B]EPISÓDIO -> 07[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5141561e213a3b285b6134eb8c5de7fc78bf41b&dn=COMOEUBAIXO.COM.-DUBLADO-DUAL-AUDIO-.COMANDO.TO%20-%20Teera%20S01E07%20%5b720p%5d%20DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7V6xd2JX4Wihd4FWNC4PNafVyd.jpg</thumbnail>
-<fanart>https://images.squarespace-cdn.com/content/v1/54c95d06e4b04d8d26f97dde/1601038260392-PD53QKNWAGNANCNRTHSJ/ke17ZwdGBToddI8pDm48kPpGqVK_U1tH7YjNLbIew8MUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYmBZ-zGBlTq8OhnyGyV_e8fg1PAnAavZHR9nVgP7JBIam_AuedoRDzWA1fhI9h2n/Tehran.png</fanart>
-</item>
-  
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
-<link></link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7V6xd2JX4Wihd4FWNC4PNafVyd.jpg</thumbnail>
-<fanart>https://images.squarespace-cdn.com/content/v1/54c95d06e4b04d8d26f97dde/1601038260392-PD53QKNWAGNANCNRTHSJ/ke17ZwdGBToddI8pDm48kPpGqVK_U1tH7YjNLbIew8MUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYmBZ-zGBlTq8OhnyGyV_e8fg1PAnAavZHR9nVgP7JBIam_AuedoRDzWA1fhI9h2n/Tehran.png</fanart>
-</item>
-
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 09[/B][/COLOR]</title>
-<link></link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7V6xd2JX4Wihd4FWNC4PNafVyd.jpg</thumbnail>
-<fanart>https://images.squarespace-cdn.com/content/v1/54c95d06e4b04d8d26f97dde/1601038260392-PD53QKNWAGNANCNRTHSJ/ke17ZwdGBToddI8pDm48kPpGqVK_U1tH7YjNLbIew8MUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYmBZ-zGBlTq8OhnyGyV_e8fg1PAnAavZHR9nVgP7JBIam_AuedoRDzWA1fhI9h2n/Tehran.png</fanart>
-</item>
-  
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
-<link></link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7V6xd2JX4Wihd4FWNC4PNafVyd.jpg</thumbnail>
-<fanart>https://images.squarespace-cdn.com/content/v1/54c95d06e4b04d8d26f97dde/1601038260392-PD53QKNWAGNANCNRTHSJ/ke17ZwdGBToddI8pDm48kPpGqVK_U1tH7YjNLbIew8MUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYmBZ-zGBlTq8OhnyGyV_e8fg1PAnAavZHR9nVgP7JBIam_AuedoRDzWA1fhI9h2n/Tehran.png</fanart>
-</item>
-
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 11[/B][/COLOR]</title>
-<link></link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7V6xd2JX4Wihd4FWNC4PNafVyd.jpg</thumbnail>
-<fanart>https://images.squarespace-cdn.com/content/v1/54c95d06e4b04d8d26f97dde/1601038260392-PD53QKNWAGNANCNRTHSJ/ke17ZwdGBToddI8pDm48kPpGqVK_U1tH7YjNLbIew8MUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYmBZ-zGBlTq8OhnyGyV_e8fg1PAnAavZHR9nVgP7JBIam_AuedoRDzWA1fhI9h2n/Tehran.png</fanart>
-</item>
-  
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 12[/B][/COLOR]</title>
-<link></link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7V6xd2JX4Wihd4FWNC4PNafVyd.jpg</thumbnail>
-<fanart>https://images.squarespace-cdn.com/content/v1/54c95d06e4b04d8d26f97dde/1601038260392-PD53QKNWAGNANCNRTHSJ/ke17ZwdGBToddI8pDm48kPpGqVK_U1tH7YjNLbIew8MUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYmBZ-zGBlTq8OhnyGyV_e8fg1PAnAavZHR9nVgP7JBIam_AuedoRDzWA1fhI9h2n/Tehran.png</fanart>
-</item>
-
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 13[/B][/COLOR]</title>
-<link></link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7V6xd2JX4Wihd4FWNC4PNafVyd.jpg</thumbnail>
-<fanart>https://images.squarespace-cdn.com/content/v1/54c95d06e4b04d8d26f97dde/1601038260392-PD53QKNWAGNANCNRTHSJ/ke17ZwdGBToddI8pDm48kPpGqVK_U1tH7YjNLbIew8MUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYmBZ-zGBlTq8OhnyGyV_e8fg1PAnAavZHR9nVgP7JBIam_AuedoRDzWA1fhI9h2n/Tehran.png</fanart>
-</item>
-  
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 14[/B][/COLOR]</title>
-<link></link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7V6xd2JX4Wihd4FWNC4PNafVyd.jpg</thumbnail>
-<fanart>https://images.squarespace-cdn.com/content/v1/54c95d06e4b04d8d26f97dde/1601038260392-PD53QKNWAGNANCNRTHSJ/ke17ZwdGBToddI8pDm48kPpGqVK_U1tH7YjNLbIew8MUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYmBZ-zGBlTq8OhnyGyV_e8fg1PAnAavZHR9nVgP7JBIam_AuedoRDzWA1fhI9h2n/Tehran.png</fanart>
-</item>
-
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 15[/B][/COLOR]</title>
-<link></link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7V6xd2JX4Wihd4FWNC4PNafVyd.jpg</thumbnail>
-<fanart>https://images.squarespace-cdn.com/content/v1/54c95d06e4b04d8d26f97dde/1601038260392-PD53QKNWAGNANCNRTHSJ/ke17ZwdGBToddI8pDm48kPpGqVK_U1tH7YjNLbIew8MUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYmBZ-zGBlTq8OhnyGyV_e8fg1PAnAavZHR9nVgP7JBIam_AuedoRDzWA1fhI9h2n/Tehran.png</fanart>
-</item>
-  
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 16[/B][/COLOR]</title>
-<link></link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7V6xd2JX4Wihd4FWNC4PNafVyd.jpg</thumbnail>
-<fanart>https://images.squarespace-cdn.com/content/v1/54c95d06e4b04d8d26f97dde/1601038260392-PD53QKNWAGNANCNRTHSJ/ke17ZwdGBToddI8pDm48kPpGqVK_U1tH7YjNLbIew8MUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYmBZ-zGBlTq8OhnyGyV_e8fg1PAnAavZHR9nVgP7JBIam_AuedoRDzWA1fhI9h2n/Tehran.png</fanart>
-</item>
-
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 17[/B][/COLOR]</title>
-<link></link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7V6xd2JX4Wihd4FWNC4PNafVyd.jpg</thumbnail>
-<fanart>https://images.squarespace-cdn.com/content/v1/54c95d06e4b04d8d26f97dde/1601038260392-PD53QKNWAGNANCNRTHSJ/ke17ZwdGBToddI8pDm48kPpGqVK_U1tH7YjNLbIew8MUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYmBZ-zGBlTq8OhnyGyV_e8fg1PAnAavZHR9nVgP7JBIam_AuedoRDzWA1fhI9h2n/Tehran.png</fanart>
-</item>
-  
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 18[/B][/COLOR]</title>
-<link></link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7V6xd2JX4Wihd4FWNC4PNafVyd.jpg</thumbnail>
-<fanart>https://images.squarespace-cdn.com/content/v1/54c95d06e4b04d8d26f97dde/1601038260392-PD53QKNWAGNANCNRTHSJ/ke17ZwdGBToddI8pDm48kPpGqVK_U1tH7YjNLbIew8MUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYmBZ-zGBlTq8OhnyGyV_e8fg1PAnAavZHR9nVgP7JBIam_AuedoRDzWA1fhI9h2n/Tehran.png</fanart>
-</item>
-
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 19[/B][/COLOR]</title>
-<link></link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7V6xd2JX4Wihd4FWNC4PNafVyd.jpg</thumbnail>
-<fanart>https://images.squarespace-cdn.com/content/v1/54c95d06e4b04d8d26f97dde/1601038260392-PD53QKNWAGNANCNRTHSJ/ke17ZwdGBToddI8pDm48kPpGqVK_U1tH7YjNLbIew8MUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYmBZ-zGBlTq8OhnyGyV_e8fg1PAnAavZHR9nVgP7JBIam_AuedoRDzWA1fhI9h2n/Tehran.png</fanart>
-</item>
-  
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 20[/B][/COLOR]</title>
-<link></link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7V6xd2JX4Wihd4FWNC4PNafVyd.jpg</thumbnail>
 <fanart>https://images.squarespace-cdn.com/content/v1/54c95d06e4b04d8d26f97dde/1601038260392-PD53QKNWAGNANCNRTHSJ/ke17ZwdGBToddI8pDm48kPpGqVK_U1tH7YjNLbIew8MUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYmBZ-zGBlTq8OhnyGyV_e8fg1PAnAavZHR9nVgP7JBIam_AuedoRDzWA1fhI9h2n/Tehran.png</fanart>
 </item>
