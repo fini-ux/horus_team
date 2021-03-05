@@ -2,10 +2,10 @@
 <layoutype>thumbnail</layoutype>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR white][B]1ª  Temporada[/B][/COLOR]</name>********************************************************************************
-
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
+<link>.</link>
+</item>
 
 <item>
 <title>[COLOR white][B]EPISÓDIO -> 01 e 02 -[/B][/COLOR]  [COLOR green][B]Gravado ao Vivo com Platéia/Não Mude de Canal[/B][/COLOR]</title>
@@ -45,6 +45,13 @@
 <item>
 <title>[COLOR white][B]EPISÓDIO -> 08 -[/B][/COLOR]  [COLOR green][B]Nos Capítulos Anteriores[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VCG3IT3JIEPPLBAJQQ6KXECDJWTFMHQX&dn=COMOEUBAIXO.COM.-DUBLADO-DUAL-AUDIO-.COMANDO.TO%20-%20WandaVision.S01E08.1080p.DUAL</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/01/wandavision-guia.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 09 -[/B][/COLOR]  [COLOR green][B]O Grande Final[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KTRLMAPZNEN5RNDGZ274WX7BGO57CJ66&dn=COMOEUBAIXO.COM.-DUBLADO-DUAL-AUDIO-.WandaVision%20S01E09%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/01/wandavision-guia.jpg</fanart>
 </item>
