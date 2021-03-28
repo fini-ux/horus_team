@@ -1,3 +1,6 @@
+
+
+
 <channels><channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]3%[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wCQP1El20FFncM0lIYcaW3Kq19o.jpg</thumbnail>
@@ -8,6 +11,20 @@
 [COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2016[/B][/COLOR] 
 [COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama,Ficção Cientifica e fantasia[/B][/COLOR] 
 [COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Em um futuro onde a elite vive no conforto do Maralto, todos os jovens de 20 anos passam por um processo seletivo para viver lá. Mas só 3% serão aprovados.[/B][/COLOR]
+[COLOR green][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Renovada[/B][/COLOR]
+</info>
+</channels></channel>
+
+<channels><channel>
+<name>[COLOR green]•[/COLOR][COLOR white][B]5X Comédia[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zQqES8kCd4p10bwIRL3E0m4HYei.jpg</thumbnail>
+<fanart>https://www.arrobanerd.com.br/wp-content/uploads/2021/03/5x-come%CC%81dia-prime-video.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/fini-ux/horus_team/main/todas%20as%20series/5X%20Com%C3%A9dia</externallink>
+<info>
+[COLOR green][B]Emissora:[/B][/COLOR] [COLOR white][B]Prime Video[/B][/COLOR] 
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR] 
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Comédia[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Partindo de diferentes pontos de vista, 5X Comédia aborda questões como sexo, trabalho, relacionamentos, família, solidão, medo e desejo de viver em estado de isolamento. Questões como as diferenças de classes e privilégios da nossa sociedade também estão presentes na série, ampliando o debate e trazendo mais diversidade ao projeto. [/B][/COLOR]
 [COLOR green][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Renovada[/B][/COLOR]
 </info>
 </channels></channel>
@@ -4926,6 +4943,21 @@
 [COLOR green][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Renovada[/B][/COLOR]
 </info>
 </channels></channel>
+
+<channels><channel>
+<name>[COLOR green]•[/COLOR][COLOR white][B]Van Helsing[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r8ODGmfNbZQlNhiJl2xQENE2jsk.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/308772/tvthumb/van-helsing-5d867fd69f04a.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/fini-ux/horus_team/main/todas%20as%20series/Van%20Helsing</externallink>
+<info>
+[COLOR green][B]Emissora:[/B][/COLOR] [COLOR white][B]SkyFy[/B][/COLOR] 
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2016[/B][/COLOR] 
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Vanessa Van Helsing é ressuscitada depois de cinco anos morta e descobre que o mundo foi tomado por vampiros. Agora ela precisa lutar para manter vivo o legado de seu pai Abraham.[/B][/COLOR]
+[COLOR green][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Renovada[/B][/COLOR]
+</info>
+</channels></channel>
+
 
 <channels><channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Verão Letal - Dead of Summer[/B][/COLOR]</name>
